@@ -11,5 +11,5 @@ git+https://github.com/mfouesneau/pystellibs
 git+https://github.com/mfouesneau/pyextinction
 git+https://github.com/mfouesneau/ezmist
 git+https://github.com/mfouesneau/ezpadova
-git+https://github.com/mfouesneau/ezdart
+# git+https://github.com/mfouesneau/ezdart
 git+https://github.com/mfouesneau/ezdata
